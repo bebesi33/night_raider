@@ -1,0 +1,12 @@
+{
+  "name": "nw.NightRaider",
+  "version": "1.0.0",
+  "devDependencies": {
+    "nw": "^0.35.5",
+    "nw-builder": "^3.5.7"
+  },
+  "scripts": {
+    "dev": "nw src/",
+    "prod": "nwbuild -p win64,win32 dist/ src/"
+  }
+}

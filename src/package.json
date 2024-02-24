@@ -1,0 +1,10 @@
+{
+  "name":"nw.NightRaider",
+  "version": "1.0.0",
+  "main":"Launcher_HTML.html",
+  "window":{
+    "min_width":960,
+    "min_height":672,
+    "icon":"Launcher_Ikon.ico"
+  }
+}
