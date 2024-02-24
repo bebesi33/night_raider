@@ -1,5 +1,5 @@
 # Night Raider
-An old game I've made during the game programming lecture
+An old game I've made during the game programming lectures...
 
 It is simple gun'n'run type game, where you should hunt down zombies.
 Don't forget to change your weapon with ctrl!
