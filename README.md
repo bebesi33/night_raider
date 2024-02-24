@@ -1,5 +1,6 @@
 # Night Raider
 An old game I've made during the game programming lectures...
+The game was made with Node.js in javascript, due to size constraints the build cannot be added here.
 
 It is simple gun'n'run type game, where you should hunt down zombies.
 Don't forget to change your weapon with ctrl!
